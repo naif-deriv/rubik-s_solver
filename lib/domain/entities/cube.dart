@@ -1,4 +1,4 @@
-import 'package:rubik/data/models/face.dart';
+import 'face.dart';
 
 abstract class Cube {
   final List<Face> faces;

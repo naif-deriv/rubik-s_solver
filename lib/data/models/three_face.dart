@@ -1,4 +1,4 @@
-import 'package:rubik/data/models/face.dart';
+import '../../domain/entities/face.dart';
 
 class ThreeFace extends Face {
   // Constructors to create a face of a 3x3 cube

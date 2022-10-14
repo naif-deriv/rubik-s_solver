@@ -1,7 +1,6 @@
-import 'package:rubik/data/models/cube.dart';
 import 'package:rubik/data/models/three_face.dart';
-
-import 'face.dart';
+import 'package:rubik/domain/entities/face.dart';
+import '../../domain/entities/cube.dart';
 
 class ThreeCube extends Cube {
   /// Constructor to create a 3x3 cube
